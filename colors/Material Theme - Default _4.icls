@@ -19,8 +19,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff0b30" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff0b30" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ffffff" />
-    <option name="FILESTATUS_MERGED" value="ffffff" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="68676c" />
+    <option name="FILESTATUS_MERGED" value="86ce67" />
     <option name="FILESTATUS_MODIFIED" value="2cb5e6" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
@@ -95,6 +95,11 @@
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="ff5370" />
+      </value>
+    </option>
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="eebb68" />
       </value>
     </option>
     <option name="BNF_KEYWORD">
