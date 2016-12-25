@@ -9,25 +9,27 @@
     <option name="CARET_ROW_COLOR" value="222f35" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
-    <option name="FILESTATUS_ADDED" value="80cbc4" />
+    <option name="FILESTATUS_ADDED" value="86ce67" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
-    <option name="FILESTATUS_DELETED" value="f70000" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_DELETED" value="ff5370" />
+    <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ffffff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff0b30" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff0b30" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff0b30" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
-    <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="f77669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="629755" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ffffff" />
+    <option name="FILESTATUS_MERGED" value="ffffff" />
+    <option name="FILESTATUS_MODIFIED" value="2cb5e6" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="" />
+    <option name="FILESTATUS_addedOutside" value="86ce67" />
+    <option name="FILESTATUS_changelistConflict" value="ff0b30" />
+    <option name="FILESTATUS_modifiedOutside" value="2cb5e6" />
     <option name="GUTTER_BACKGROUND" value="263238" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
@@ -218,11 +220,6 @@
         <option name="FOREGROUND" value="f8f8f0" />
       </value>
     </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="f8f8f0" />
-      </value>
-    </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffff00" />
@@ -375,14 +372,10 @@
       </value>
     </option>
     <option name="DEFAULT_BRACES">
-      <value>
-        <option name="FOREGROUND" value="cad3de" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="cad3de" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
@@ -462,7 +455,6 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="80cbc4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -473,9 +465,7 @@
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="798194" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_FIELD">
@@ -492,8 +482,6 @@
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="a7dbd8" />
-        <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -799,7 +787,8 @@
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
-        <option name="FOREGROUND" value="20c5c3" />
+        <option name="FOREGROUND" value="ff5370" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN.AUTO_LINK">
@@ -964,6 +953,11 @@
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR_VAR">
+      <value>
+        <option name="FOREGROUND" value="ff5370" />
+      </value>
+    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="f36e3a" />
