@@ -2,7 +2,7 @@
   <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro for Powerline" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="f77669" />
+    <option name="ADDED_LINES_COLOR" value="86ce67" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
@@ -38,19 +38,19 @@
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
-    <option name="MODIFIED_LINES_COLOR" value="f77669" />
+    <option name="MODIFIED_LINES_COLOR" value="2cb5e6" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="38484e" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="314549" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="TEARLINE_COLOR" value="3b4950" />
-    <option name="WHITESPACES" value="2e3c43" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f77669" />
+    <option name="WHITESPACES" value="ffffff" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffffff" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -454,11 +454,7 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA">
-      <value>
-        <option name="FOREGROUND" value="bbb529" />
-      </value>
-    </option>
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
@@ -509,7 +505,6 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff5370" />
-        <option name="EFFECT_COLOR" value="c14360" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -570,9 +565,7 @@
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f3f349" />
-      </value>
+      <value />
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
@@ -881,8 +874,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1154,8 +1147,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TYPEDEF">
@@ -1175,7 +1167,8 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d1243b" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="e8341c" />
       </value>
     </option>
     <option name="Unresolved reference access">
