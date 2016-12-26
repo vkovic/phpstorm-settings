@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-26T16:58:39</property>
+    <property name="modified">2016-12-26T18:01:47</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -11,7 +11,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="86ce67" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
-    <option name="BORDER_LINES_COLOR" value="" />
+    <option name="BORDER_LINES_COLOR" value="263238" />
     <option name="CARET_COLOR" value="7dff00" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
@@ -44,22 +44,22 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="" />
     <option name="HTML_TAG_TREE_LEVEL4" value="" />
     <option name="HTML_TAG_TREE_LEVEL5" value="" />
-    <option name="INDENT_GUIDE" value="546e7a" />
+    <option name="INDENT_GUIDE" value="2e3c43" />
     <option name="LINE_NUMBERS_COLOR" value="" />
-    <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="2cb5e6" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="38484e" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
-    <option name="SELECTED_INDENT_GUIDE" value="2e3c43" />
-    <option name="SELECTED_TEARLINE_COLOR" value="7dff00" />
-    <option name="SELECTION_BACKGROUND" value="314549" />
+    <option name="SELECTED_INDENT_GUIDE" value="68676c" />
+    <option name="SELECTED_TEARLINE_COLOR" value="e0e0e0" />
+    <option name="SELECTION_BACKGROUND" value="545358" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
-    <option name="TEARLINE_COLOR" value="2e3c43" />
-    <option name="WHITESPACES" value="e0e0e0" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffffff" />
+    <option name="TEARLINE_COLOR" value="263238" />
+    <option name="WHITESPACES" value="545358" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e0e0e0" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -660,7 +660,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e3c43" />
+        <option name="BACKGROUND" value="545358" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
