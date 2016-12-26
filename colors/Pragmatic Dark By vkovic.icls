@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-26T12:46:19</property>
+    <property name="modified">2016-12-26T14:27:12</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -12,8 +12,8 @@
     <option name="ADDED_LINES_COLOR" value="86ce67" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="222f35" />
+    <option name="CARET_COLOR" value="7dff00" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="FILESTATUS_ADDED" value="86ce67" />
@@ -44,20 +44,20 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="" />
     <option name="HTML_TAG_TREE_LEVEL4" value="" />
     <option name="HTML_TAG_TREE_LEVEL5" value="" />
-    <option name="INDENT_GUIDE" value="" />
-    <option name="LINE_NUMBERS_COLOR" value="475f63" />
-    <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
+    <option name="INDENT_GUIDE" value="546e7a" />
+    <option name="LINE_NUMBERS_COLOR" value="" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="2cb5e6" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="38484e" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
-    <option name="SELECTED_INDENT_GUIDE" value="505050" />
-    <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
+    <option name="SELECTED_INDENT_GUIDE" value="2e3c43" />
+    <option name="SELECTED_TEARLINE_COLOR" value="7dff00" />
     <option name="SELECTION_BACKGROUND" value="314549" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
-    <option name="TEARLINE_COLOR" value="3b4950" />
+    <option name="TEARLINE_COLOR" value="2e3c43" />
     <option name="WHITESPACES" value="ffffff" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffffff" />
   </colors>
@@ -113,6 +113,21 @@
       <value>
         <option name="FOREGROUND" value="f36e3a" />
       </value>
+    </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value />
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -375,7 +390,6 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="546e7a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -397,13 +411,13 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
+        <option name="FOREGROUND" value="546e7a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="546e7a" />
-        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -625,7 +639,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="34434a" />
+        <option name="BACKGROUND" value="2e3c43" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -880,8 +894,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1178,8 +1191,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="e8341c" />
+        <option name="BACKGROUND" value="ff0b30" />
       </value>
     </option>
     <option name="Unresolved reference access">
@@ -1220,7 +1232,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="34434a" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
