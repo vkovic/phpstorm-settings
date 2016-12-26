@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-26T14:27:12</property>
+    <property name="modified">2016-12-26T15:59:53</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -184,7 +184,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ff0b30" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -393,10 +393,19 @@
       </value>
     </option>
     <option name="DEFAULT_BRACES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
+      </value>
     </option>
     <option name="DEFAULT_BRACKETS">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
+      </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
@@ -423,6 +432,11 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="546e7a" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -476,7 +490,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e0e0e0" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -486,9 +500,16 @@
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
+      </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -802,7 +823,7 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ff0b30" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -965,12 +986,7 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID">
-      <value>
-        <option name="FOREGROUND" value="a5c25c" />
-        <option name="BACKGROUND" value="252b39" />
-      </value>
-    </option>
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
@@ -979,7 +995,7 @@
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="be2c23" />
+        <option name="FOREGROUND" value="ff0b30" />
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
