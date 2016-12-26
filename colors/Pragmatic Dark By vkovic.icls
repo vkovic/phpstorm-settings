@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-25T22:18:12</property>
+    <property name="modified">2016-12-26T12:46:19</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -102,11 +102,6 @@
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="ff5370" />
-      </value>
-    </option>
-    <option name="BLADE_DIRECTIVE">
-      <value>
-        <option name="FOREGROUND" value="eebb68" />
       </value>
     </option>
     <option name="BNF_KEYWORD">
@@ -610,6 +605,16 @@
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="eebb68" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1141,7 +1146,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="e0e0e0" />
+        <option name="FOREGROUND" value="c3cee3" />
         <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
