@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-27T17:50:12</property>
+    <property name="modified">2016-12-27T19:08:30</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -45,7 +45,7 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="" />
     <option name="HTML_TAG_TREE_LEVEL5" value="" />
     <option name="INDENT_GUIDE" value="2e3c43" />
-    <option name="LINE_NUMBERS_COLOR" value="" />
+    <option name="LINE_NUMBERS_COLOR" value="545358" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="2cb5e6" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
@@ -83,12 +83,6 @@
         <option name="FOREGROUND" value="2cb5e6" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
