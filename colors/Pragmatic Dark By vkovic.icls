@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-27T17:01:19</property>
+    <property name="modified">2016-12-27T17:50:12</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -54,7 +54,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="68676c" />
     <option name="SELECTED_TEARLINE_COLOR" value="e0e0e0" />
-    <option name="SELECTION_BACKGROUND" value="545358" />
+    <option name="SELECTION_BACKGROUND" value="2e3c43" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="TEARLINE_COLOR" value="263238" />
@@ -330,48 +330,26 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="8000" />
-        <option name="BACKGROUND" value="252b39" />
-      </value>
-    </option>
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="1a1f29" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ab51ba" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f9795" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c93b48" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_NUMBER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f36e3a" />
-      </value>
-    </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="6a8759" />
-      </value>
-    </option>
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="4646f1" />
-      </value>
-    </option>
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -452,8 +430,8 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="EFFECT_COLOR" value="ff5370" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -475,7 +453,7 @@
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="d8d8d8" />
+        <option name="FOREGROUND" value="ececec" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -492,6 +470,7 @@
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="e0e0e0" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -514,6 +493,7 @@
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
+        <option name="FOREGROUND" value="fffb09" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -530,9 +510,8 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="d3423e" />
-        <option name="EFFECT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2cb5e6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -565,7 +544,10 @@
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="86ce67" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="ENUM_CONST">
       <value>
@@ -574,9 +556,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff5370" />
-        <option name="ERROR_STRIPE_COLOR" value="b23e56" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="ff0b30" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -595,8 +576,7 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="f49810" />
-        <option name="ERROR_STRIPE_COLOR" value="f49810" />
+        <option name="EFFECT_COLOR" value="86ce67" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -668,9 +648,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="d9b2d5" />
-        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="eebb68" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -902,9 +881,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="2cb5e6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Number">
@@ -1107,7 +1085,8 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="BACKGROUND" value="3b4b51" />
+        <option name="BACKGROUND" value="545358" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -1120,6 +1099,12 @@
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Unused entry">
+      <value>
+        <option name="EFFECT_COLOR" value="2cb5e6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1146,10 +1131,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1e2b31" />
-        <option name="EFFECT_COLOR" value="e6a247" />
-        <option name="ERROR_STRIPE_COLOR" value="e6a247" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="eebb68" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -1166,7 +1149,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="EFFECT_COLOR" value="2cb5e6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
