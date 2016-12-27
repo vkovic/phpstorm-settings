@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-26T19:25:32</property>
+    <property name="modified">2016-12-27T11:50:16</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -78,32 +78,17 @@
         <option name="BACKGROUND" value="ff0b30" />
       </value>
     </option>
-    <option name="BASH.CONDITIONAL">
-      <value>
-        <option name="FOREGROUND" value="2c9ea7" />
-      </value>
-    </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="e4cb8f" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="2cb5e6" />
       </value>
     </option>
-    <option name="BASH.INTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="6dc2b8" />
-      </value>
-    </option>
-    <option name="BASH.VAR_DEF">
-      <value>
-        <option name="FOREGROUND" value="c2c8d7" />
-      </value>
-    </option>
-    <option name="BASH.VAR_USE">
-      <value>
-        <option name="FOREGROUND" value="ff5370" />
-      </value>
-    </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
+    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -457,7 +442,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="eebb68" />
+        <option name="FOREGROUND" value="86ce67" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -920,7 +905,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff0b30" />
+        <option name="FOREGROUND" value="f700ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
