@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-28T11:26:16</property>
+    <property name="modified">2016-12-28T16:59:58</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -342,7 +342,8 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ff0b30" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -403,12 +404,7 @@
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="FOREGROUND" value="fffb09" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
