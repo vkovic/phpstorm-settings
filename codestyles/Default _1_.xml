@@ -1,4 +1,19 @@
 <code_scheme name="Default (1)">
   <option name="HTML_KEEP_BLANK_LINES" value="1" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <arrangement>
+      <groups />
+    </arrangement>
+  </codeStyleSettings>
 </code_scheme>
