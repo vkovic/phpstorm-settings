@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-30T11:24:56</property>
+    <property name="modified">2016-12-30T13:22:58</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -13,7 +13,7 @@
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="263238" />
     <option name="CARET_COLOR" value="7dff00" />
-    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CARET_ROW_COLOR" value="263238" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="FILESTATUS_ADDED" value="86ce67" />
@@ -54,7 +54,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="465d64" />
     <option name="SELECTED_TEARLINE_COLOR" value="a3a3a3" />
-    <option name="SELECTION_BACKGROUND" value="2e3c43" />
+    <option name="SELECTION_BACKGROUND" value="111b21" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="TEARLINE_COLOR" value="465d64" />
