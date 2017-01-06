@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-01-05T17:37:45</property>
+    <property name="modified">2017-01-06T14:14:27</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -83,11 +83,6 @@
         <option name="FOREGROUND" value="2cb5e6" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -933,7 +928,6 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="7dff00" />
       </value>
     </option>
@@ -988,7 +982,6 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="7dff00" />
       </value>
     </option>
@@ -1067,7 +1060,6 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="7dff00" />
       </value>
     </option>
