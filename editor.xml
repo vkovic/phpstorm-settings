@@ -13,6 +13,5 @@
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
-    <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
 </application>
