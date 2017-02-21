@@ -1,6 +1,10 @@
 <code_scheme name="Default (1)">
   <option name="HTML_KEEP_BLANK_LINES" value="1" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
