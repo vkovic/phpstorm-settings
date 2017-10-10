@@ -15,7 +15,7 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern case-sensitive="true" pattern="\bTODO\b.@" />
+    <pattern case-sensitive="true" pattern="\bTODO\b" />
     <pattern case-sensitive="true" pattern="\bTODO:SOLVE\b" />
     <pattern case-sensitive="true" pattern="\bTODO:URGENT\b" />
   </component>
