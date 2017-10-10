@@ -15,11 +15,9 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern icon="question" pattern="\bq\b.*" />
-    <pattern pattern="\bsolve\b.*" />
-    <pattern icon="important" pattern="\burgent\b.*" />
+    <pattern case-sensitive="true" pattern="\bTODO\b.@" />
+    <pattern case-sensitive="true" pattern="\bTODO:SOLVE\b" />
+    <pattern case-sensitive="true" pattern="\bTODO:URGENT\b" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
