@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="1">
+    <option name="load-slow-documentation" value="false" />
     <option name="auto-introspect-on-creation" value="false" />
     <csv-formats>
       <csv-format name="Tab-separated (TSV)">
