@@ -4,7 +4,7 @@
     <property name="created">2016-12-25T17:18:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-10-10T19:49:21</property>
+    <property name="modified">2017-09-19T17:24:48</property>
     <property name="originalScheme">Material Theme - Default #4</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="10" />
@@ -110,9 +110,7 @@
       <value />
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="252b39" />
-      </value>
+      <value />
     </option>
     <option name="CLASS_REFERENCE">
       <value>
@@ -214,7 +212,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="850600" />
+        <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -482,7 +480,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="252b39" />
+        <option name="BACKGROUND" value="384f5a" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
