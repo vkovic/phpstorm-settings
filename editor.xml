@@ -16,8 +16,6 @@
   </component>
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\bTODO\b" />
-    <pattern case-sensitive="true" pattern="\bTODO:SOLVE\b" />
-    <pattern case-sensitive="true" pattern="\bTODO:URGENT\b" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
