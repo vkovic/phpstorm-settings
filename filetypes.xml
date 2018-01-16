@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="useful-links" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="NPv2K3MXFGZZKA21ql6E6285q7w0fkScdCSzUAwK" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
