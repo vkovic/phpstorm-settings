@@ -8,29 +8,5 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*b.php</mask>
-      <mask>*bla.php</mask>
-      <mask>*blad.php</mask>
-      <mask>*blade.php.php</mask>
-      <mask>*blade.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.md</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.php</mask>
-      <mask>*.scss</mask>
-    </recentFileMasks>
   </component>
 </application>
