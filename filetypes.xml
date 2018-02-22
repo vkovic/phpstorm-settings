@@ -6,6 +6,7 @@
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="NPv2K3MXFGZZKA21ql6E6285q7w0fkScdCSzUAwK" type="PLAIN_TEXT" />
+      <mapping pattern="artisan" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
