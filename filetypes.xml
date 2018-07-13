@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Crete Cache" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="NPv2K3MXFGZZKA21ql6E6285q7w0fkScdCSzUAwK" type="PLAIN_TEXT" />
       <mapping pattern="artisan" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Crete Cache" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping pattern="useful-links" type="Markdown" />
     </extensionMap>
