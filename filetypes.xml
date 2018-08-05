@@ -10,7 +10,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping pattern="useful-links" type="Markdown" />
     </extensionMap>
