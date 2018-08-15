@@ -18,5 +18,6 @@
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*blade.php</mask>
   </component>
 </application>
