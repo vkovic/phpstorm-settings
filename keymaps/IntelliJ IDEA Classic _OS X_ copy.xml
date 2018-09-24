@@ -9,9 +9,6 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="shift quotedbl" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
