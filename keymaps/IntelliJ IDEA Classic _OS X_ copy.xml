@@ -5,8 +5,6 @@
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
-  <action id="NextTab" />
-  <action id="PreviousTab" />
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="meta r" />
