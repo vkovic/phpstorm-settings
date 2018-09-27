@@ -6,6 +6,7 @@
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
@@ -35,6 +36,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
