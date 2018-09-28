@@ -7,5 +7,18 @@
   </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
+    <entry key="localHistory.daysToKeep" value="2" />
+    <entry key="editor.zero.latency.rendering" value="false" />
+    <entry key="ide.intellij.laf.win10.ui" value="false" />
+    <entry key="ide.libnotify.enabled" value="false" />
+    <entry key="ide.new.editor.tabs.selection.color" value="255,83,112" />
+    <entry key="ide.scratch.buffers" value="3" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="ide.ui.tree.indent" value="6" />
+    <entry key="idea.io.safe.sync" value="false" />
+    <entry key="java.annotations.inference.aggressive.hardcoded.purity" value="false" />
+    <entry key="performance.watcher.sampling.interval.ms" value="10000" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="15000" />
+    <entry key="prettierjs.enabled" value="false" />
   </component>
 </application>
