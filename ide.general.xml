@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
@@ -11,7 +10,7 @@
     <entry key="editor.zero.latency.rendering" value="false" />
     <entry key="ide.intellij.laf.win10.ui" value="false" />
     <entry key="ide.libnotify.enabled" value="false" />
-    <entry key="ide.new.editor.tabs.selection.color" value="255,83,112" />
+    <entry key="ide.new.editor.tabs.selection.color" value="139,151,159" />
     <entry key="ide.scratch.buffers" value="3" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.ui.tree.indent" value="6" />
@@ -20,5 +19,9 @@
     <entry key="performance.watcher.sampling.interval.ms" value="10000" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="15000" />
     <entry key="prettierjs.enabled" value="false" />
+    <entry key="vcs.log.index.limit.minutes" value="5" />
+    <entry key="vcs.log.keep.up.to.date" value="false" />
+    <entry key="vcs.log.index.git" value="false" />
+    <entry key="vcs.root.detector.folder.depth" value="1" />
   </component>
 </application>
