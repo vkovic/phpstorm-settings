@@ -10,7 +10,7 @@
     <entry key="editor.zero.latency.rendering" value="false" />
     <entry key="ide.intellij.laf.win10.ui" value="false" />
     <entry key="ide.libnotify.enabled" value="false" />
-    <entry key="ide.new.editor.tabs.selection.color" value="139,151,159" />
+    <entry key="ide.new.editor.tabs.selection.color" value="255,83,112" />
     <entry key="ide.scratch.buffers" value="3" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.ui.tree.indent" value="6" />
