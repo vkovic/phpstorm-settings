@@ -49,6 +49,6 @@
     <entry key="editor.use.scrollable.tabs" value="false" />
     <entry key="editor.use.new.tabs" value="false" />
     <entry key="ide.new.editor.tabs.selection" value="false" />
-    <entry key="mac.editor.thumb.darcula.border" value="127" />
+    <entry key="mac.editor.thumb.darcula.border" value="0" />
   </component>
 </application>
