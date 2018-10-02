@@ -48,6 +48,7 @@
     <entry key="vcs.showConsole" value="false" />
     <entry key="editor.use.scrollable.tabs" value="false" />
     <entry key="editor.use.new.tabs" value="false" />
-    <entry key="ide.mac.disableMacScrollbars" value="false" />
+    <entry key="ide.new.editor.tabs.selection" value="false" />
+    <entry key="mac.editor.thumb.darcula.border" value="127" />
   </component>
 </application>
