@@ -13,7 +13,7 @@
     <entry key="ide.new.editor.tabs.selection.color" value="81,86,88" />
     <entry key="ide.scratch.buffers" value="3" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
-    <entry key="ide.ui.tree.indent" value="6" />
+    <entry key="ide.ui.tree.indent" value="5" />
     <entry key="idea.io.safe.sync" value="false" />
     <entry key="java.annotations.inference.aggressive.hardcoded.purity" value="false" />
     <entry key="performance.watcher.sampling.interval.ms" value="10000" />
@@ -23,5 +23,31 @@
     <entry key="vcs.log.keep.up.to.date" value="false" />
     <entry key="vcs.log.index.git" value="false" />
     <entry key="vcs.root.detector.folder.depth" value="1" />
+    <entry key="editor.disable.rtl" value="true" />
+    <entry key="editor.navigation.history.stack.size" value="10" />
+    <entry key="enable.groovy.hotswap" value="false" />
+    <entry key="error.stripe.enabled" value="false" />
+    <entry key="find.search.in.project.files" value="false" />
+    <entry key="force.subpixel.hinting" value="false" />
+    <entry key="GRADLE.system.in.process" value="false" />
+    <entry key="grails.add.plain.output" value="false" />
+    <entry key="grails.create.run.configurations" value="false" />
+    <entry key="ide.balloon.shadowEnabled" value="false" />
+    <entry key="ide.certificate.manager" value="false" />
+    <entry key="ide.consumeKnownToolkitBugs" value="false" />
+    <entry key="ide.editor.thumb.experimental" value="false" />
+    <entry key="ide.interlanguage.fixes" value="false" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="ide.mac.disableMacScrollbars" value="true" />
+    <entry key="ide.mac.forceTouch" value="false" />
+    <entry key="ide.mac.hide.cursor.when.typing" value="false" />
+    <entry key="ide.mac.mountain.lion.notifications.enabled" value="false" />
+    <entry key="ide.new.about" value="false" />
+    <entry key="search.everywhere.actions" value="false" />
+    <entry key="search.everywhere.configurations" value="false" />
+    <entry key="search.everywhere.pattern.checking" value="false" />
+    <entry key="search.everywhere.toolwindows" value="false" />
+    <entry key="vcs.log.recent.commits.count" value="300" />
+    <entry key="vcs.showConsole" value="false" />
   </component>
 </application>
