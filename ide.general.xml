@@ -35,10 +35,7 @@
     <entry key="ide.balloon.shadowEnabled" value="false" />
     <entry key="ide.certificate.manager" value="false" />
     <entry key="ide.consumeKnownToolkitBugs" value="false" />
-    <entry key="ide.editor.thumb.experimental" value="false" />
     <entry key="ide.interlanguage.fixes" value="false" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="ide.mac.disableMacScrollbars" value="true" />
     <entry key="ide.mac.forceTouch" value="false" />
     <entry key="ide.mac.hide.cursor.when.typing" value="false" />
     <entry key="ide.mac.mountain.lion.notifications.enabled" value="false" />
@@ -49,5 +46,8 @@
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="vcs.log.recent.commits.count" value="300" />
     <entry key="vcs.showConsole" value="false" />
+    <entry key="editor.use.scrollable.tabs" value="false" />
+    <entry key="editor.use.new.tabs" value="false" />
+    <entry key="ide.mac.disableMacScrollbars" value="false" />
   </component>
 </application>
