@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2018-09-28T10:10:29</property>
+    <property name="modified">2018-10-22T18:02:00</property>
     <property name="originalScheme">Material Theme - Default #4</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -15,7 +15,7 @@
   <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro for Powerline" />
   <option name="CONSOLE_FONT_NAME" value="PragmataPro for Powerline" />
-  <option name="CONSOLE_LINE_SPACING" value="0.6" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="86ce67" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
