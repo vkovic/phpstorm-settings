@@ -14,7 +14,6 @@
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.ui.tree.indent" value="5" />
     <entry key="idea.io.safe.sync" value="false" />
-    <entry key="java.annotations.inference.aggressive.hardcoded.purity" value="true" />
     <entry key="performance.watcher.sampling.interval.ms" value="10000" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="15000" />
     <entry key="prettierjs.enabled" value="false" />
@@ -48,5 +47,7 @@
     <entry key="editor.use.scrollable.tabs" value="false" />
     <entry key="editor.use.new.tabs" value="false" />
     <entry key="ide.new.editor.tabs.selection" value="false" />
+    <entry key="git.diff.renameLimit" value="256" />
+    <entry key="git.file.history.full" value="false" />
   </component>
 </application>
