@@ -8,7 +8,7 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script,style,template" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script,style,template,html" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
