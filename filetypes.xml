@@ -11,11 +11,13 @@
       <mapping pattern="artisan" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="useful-links" type="Markdown" />
     </extensionMap>
   </component>
