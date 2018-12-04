@@ -7,16 +7,11 @@
   </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
-    <entry key="localHistory.daysToKeep" value="2" />
-    <entry key="editor.zero.latency.rendering" value="false" />
     <entry key="ide.intellij.laf.win10.ui" value="false" />
     <entry key="ide.libnotify.enabled" value="false" />
-    <entry key="ide.new.editor.tabs.selection.color" value="81,86,88" />
-    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.ui.tree.indent" value="5" />
     <entry key="idea.io.safe.sync" value="false" />
-    <entry key="performance.watcher.sampling.interval.ms" value="10000" />
-    <entry key="performance.watcher.unresponsive.interval.ms" value="15000" />
+    <entry key="performance.watcher.sampling.interval.ms" value="10000000" />
     <entry key="prettierjs.enabled" value="false" />
     <entry key="vcs.log.index.limit.minutes" value="5" />
     <entry key="vcs.log.keep.up.to.date" value="false" />
@@ -27,13 +22,11 @@
     <entry key="enable.groovy.hotswap" value="false" />
     <entry key="error.stripe.enabled" value="false" />
     <entry key="find.search.in.project.files" value="false" />
-    <entry key="force.subpixel.hinting" value="false" />
     <entry key="GRADLE.system.in.process" value="false" />
     <entry key="grails.add.plain.output" value="false" />
     <entry key="grails.create.run.configurations" value="false" />
     <entry key="ide.balloon.shadowEnabled" value="false" />
     <entry key="ide.certificate.manager" value="false" />
-    <entry key="ide.consumeKnownToolkitBugs" value="false" />
     <entry key="ide.interlanguage.fixes" value="false" />
     <entry key="ide.mac.forceTouch" value="false" />
     <entry key="ide.mac.hide.cursor.when.typing" value="false" />
@@ -43,12 +36,11 @@
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="search.everywhere.toolwindows" value="false" />
-    <entry key="vcs.log.recent.commits.count" value="50" />
+    <entry key="vcs.log.recent.commits.count" value="30" />
     <entry key="vcs.showConsole" value="false" />
     <entry key="editor.use.scrollable.tabs" value="false" />
-    <entry key="editor.use.new.tabs" value="false" />
-    <entry key="ide.new.editor.tabs.selection" value="false" />
     <entry key="git.diff.renameLimit" value="256" />
     <entry key="git.file.history.full" value="false" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="10000000" />
   </component>
 </application>
