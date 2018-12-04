@@ -1,9 +1,9 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="false" />
+    <option name="myOverrideIdeShortcuts" value="false" />
     <option name="myPasteOnMiddleMouseButton" value="false" />
     <option name="myReportMouse" value="false" />
-    <option name="myShellIntegration" value="true" />
     <option name="mySoundBell" value="false" />
   </component>
 </application>
