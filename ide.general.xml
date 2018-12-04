@@ -27,7 +27,6 @@
     <entry key="grails.create.run.configurations" value="false" />
     <entry key="ide.balloon.shadowEnabled" value="false" />
     <entry key="ide.certificate.manager" value="false" />
-    <entry key="ide.interlanguage.fixes" value="false" />
     <entry key="ide.mac.forceTouch" value="false" />
     <entry key="ide.mac.hide.cursor.when.typing" value="false" />
     <entry key="ide.mac.mountain.lion.notifications.enabled" value="false" />
@@ -39,7 +38,7 @@
     <entry key="vcs.log.recent.commits.count" value="30" />
     <entry key="vcs.showConsole" value="false" />
     <entry key="editor.use.scrollable.tabs" value="false" />
-    <entry key="git.diff.renameLimit" value="256" />
+    <entry key="git.diff.renameLimit" value="200" />
     <entry key="git.file.history.full" value="false" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="10000000" />
   </component>
