@@ -6,7 +6,6 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Crete Cache" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="NPv2K3MXFGZZKA21ql6E6285q7w0fkScdCSzUAwK" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="artisan" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -16,9 +15,6 @@
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping pattern="useful-links" type="Markdown" />
     </extensionMap>
   </component>
 </application>
