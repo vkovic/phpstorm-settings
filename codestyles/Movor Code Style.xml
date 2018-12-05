@@ -1,8 +1,5 @@
 <code_scheme name="Movor Code Style" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
-  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-  <option name="HTML_KEEP_BLANK_LINES" value="1" />
-  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
@@ -11,11 +8,17 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script,style,template" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script,style,template,html" />
   </HTMLCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="IMPORT_SORT_MEMBERS" value="false" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
@@ -25,6 +28,10 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+  </ScssCodeStyleSettings>
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -48,7 +55,70 @@
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <arrangement>
       <groups />
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <CONST>true</CONST>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <CONSTRUCTOR>true</CONSTRUCTOR>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <INTERFACE>true</INTERFACE>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <TRAIT>true</TRAIT>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <CLASS>true</CLASS>
+            </match>
+          </rule>
+        </section>
+      </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
