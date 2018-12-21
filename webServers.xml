@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf13255e-3a0b-4e4d-b790-38709cb046e0" name="movor-one" url="http://movor-one">
+        <fileTransfer host="movor-one" port="22" privateKey="$USER_HOME$/.ssh/movor" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
