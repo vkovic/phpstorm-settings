@@ -5,13 +5,14 @@
     <property name="description" />
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2018-11-05T10:50:32</property>
+    <property name="modified">2018-12-28T13:37:22</property>
     <property name="originalScheme">Material Theme - Default #4</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
     <property name="version">0.1</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro for Powerline" />
   <option name="CONSOLE_FONT_NAME" value="PragmataPro for Powerline" />
@@ -435,8 +436,8 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="2cb5e6" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffef00" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -470,8 +471,8 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="EFFECT_COLOR" value="86ce67" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ff0b30" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="ENUM_CONST">
@@ -483,7 +484,6 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ff0b30" />
-        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -502,8 +502,8 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="86ce67" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ff0b30" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD">
@@ -574,8 +574,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="eebb68" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffef00" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -789,6 +789,12 @@
         <option name="FOREGROUND" value="c3cee3" />
       </value>
     </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ffef00" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f700ff" />
@@ -807,8 +813,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="2cb5e6" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffef00" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="Number">
@@ -928,6 +934,12 @@
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
+    <option name="RUNTIME_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0b30" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="SASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="c2c8d7" />
@@ -1000,7 +1012,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="263238" />
         <option name="BACKGROUND" value="7dff00" />
       </value>
     </option>
@@ -1067,8 +1079,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="eebb68" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffef00" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -1085,8 +1097,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="2cb5e6" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffef00" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
