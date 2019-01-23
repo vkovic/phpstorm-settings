@@ -2,7 +2,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
