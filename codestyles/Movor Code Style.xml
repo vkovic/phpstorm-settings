@@ -10,9 +10,11 @@
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,span" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script,style,template,html" />
-    <option name="HTML_INLINE_ELEMENTS" value="span,a" />
+    <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
+    <option name="HTML_INLINE_ELEMENTS" value="" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="h1,h2,h3,h4,h5,h6,title" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
