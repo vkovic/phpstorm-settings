@@ -39,9 +39,10 @@
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
   </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="1" />
+    <option name="ALIAS_CASE" value="0" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
     <option name="QUOTED_IDENTIFIER_CASE" value="1" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="QUERY_IN_ONE_STRING" value="1" />
@@ -69,9 +70,12 @@
     <option name="CREATE_SCHEMA_CONTENT_INDENT" value="false" />
     <option name="ROUTINE_ARG_OPENING" value="0" />
     <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="IMP_COMMON_WRAP_EVERY_STATEMENT" value="true" />
     <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+    <option name="EXPR_BINARY_OP_ALIGN" value="false" />
+    <option name="EXPR_CASE_COLLAPSE" value="false" />
     <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="Blade">
