@@ -81,9 +81,7 @@
     <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="EXPR_BINARY_OP_ALIGN" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="EXPR_CASE_THEN_ALIGN" value="true" />
-    <option name="EXPR_CASE_END" value="2" />
+    <option name="EXPR_CASE_END" value="1" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
     <option name="EXPR_CASE_COLLAPSE" value="false" />
     <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
